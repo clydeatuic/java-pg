@@ -1,5 +1,8 @@
 # java-pg
 Java Swing and PostgreSQL
 
-### Netbeans Screenshot
+### Screenshot
 ![Project Screenshot](https://github.com/clydeatuic/java-pg/blob/master/project-screenshot.PNG "Project Screenshot")
+
+### Todos App
+![Todos App](https://github.com/clydeatuic/java-pg/blob/master/java-pg-todos.PNG "Todos App")
